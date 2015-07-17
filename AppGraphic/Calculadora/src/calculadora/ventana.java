@@ -10,6 +10,11 @@ package calculadora;
  *
  * @author sistemover
  */
+
+/**
+ *
+ * Este programa es una calculadora
+*/
 public class ventana extends javax.swing.JFrame {
      String mem1;
      String sig;
